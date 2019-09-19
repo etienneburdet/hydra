@@ -1,5 +1,5 @@
 ### Description 
-Produce a map of the maximum height of an obstacle that won't block incomming radiation of a given power. Used for implementing autonomous solar street furnitures.
+Produce a map of the maximum height of an obstacle that won't block incomming radiation of a given power. Similar to solar fan, with more control. Used for implementing autonomous solar street furnitures.
 
 This file has been submitted by [etienneburdet](https://github.com/etienneburdet)
 
